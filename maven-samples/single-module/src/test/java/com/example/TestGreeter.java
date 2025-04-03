@@ -18,7 +18,7 @@ public class TestGreeter {
   @Before
   public void setup() {
     greeter = new Greeter();
-  }  
+  
 
   @Test
   public void greetShouldIncludeTheOneBeingGreeted() {
